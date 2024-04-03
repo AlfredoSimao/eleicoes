@@ -1,3 +1,5 @@
+title = "Gerenciador de eleicoes"
+print("{:*^80}".format(title))
 votoPartidoA = 0
 votoPartidoB = 0
 senha = 1234
