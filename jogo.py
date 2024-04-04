@@ -1,1 +1,1 @@
-
+print("Jogo da forca")
